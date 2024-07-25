@@ -12,7 +12,7 @@ If you are deploying Tailscale in a Kubernetes cluster via the [operator](https:
 
 ```yaml
 - name: PROXY_IMAGE
-  value: ghcr.io/elroy-haw/tailscale:v1.62.0
+  value: ghcr.io/elroy-haw/tailscale:vX.Y.Z
 ```
 
 ## References
